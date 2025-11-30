@@ -600,6 +600,7 @@
 - [charlie](https://github.com/number8868)
 - [twocaretcat](https://github.com/twocaretcat)
 - [midhun](https://github.com/3idhun)
+- [Anand](https://github.com/anand-1107)
 - [SWanHK](https://github.com/swanhk)
 - [J-Kosm](https://github.com/J-Kosm)
 - [di-code](https://github.com/Diogo-Serra)
